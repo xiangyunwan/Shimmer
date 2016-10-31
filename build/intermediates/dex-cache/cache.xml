@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github-source\Shimmer1\app\libs\SDK.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c6f3cdc572ddfd37a19f1c1fdb96cda324e8a12a">
+        <dex dex="D:\github-source\Shimmer1\app\build\intermediates\pre-dexed\debug\SDK_8e330ff4aa9919a9f18a607e09c5ed00a2b29d8c.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\github-source\Shimmer1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_d078e6a59736c23ae6ea3898cc40d3e14c3d1aed.jar" />
+    </item>
+    <item
+        jar="D:\github-source\Shimmer1\app\libs\Aseo.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d377e1e758c56c64528c446b3baa19d76f3af4db">
+        <dex dex="D:\github-source\Shimmer1\app\build\intermediates\pre-dexed\debug\Aseo_c155cfd70407d26d621a2278b72ac8a4dda12c92.jar" />
+    </item>
+
+</items>

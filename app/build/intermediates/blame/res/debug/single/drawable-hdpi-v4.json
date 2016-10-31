@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\Shimmer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\Shimmer1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\Shimmer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\Shimmer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
